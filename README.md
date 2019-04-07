@@ -7,4 +7,5 @@ modified`
 
 | Name | Role |
 |------|------|
-|Jeongkyu Shin | Teach | 
+|Jeongkyu Shin | Teach |
+||Student| 
